@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/nature"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_about_app"
+            android:title="About App" />
+        <item
+            android:id="@+id/nav_about_career"
+            android:title="Career" />
+        <item
+            android:id="@+id/nav_about_programs"
+            android:title="Programs" />
+        <item
+            android:id="@+id/nav_more"
+            android:title="More" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"/>
+    </group>
+
+
+
+</menu>

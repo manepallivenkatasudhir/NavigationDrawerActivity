@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_home">Home</string>
+    <string name="nav_about_app">About App</string>
+    <string name="nav_about_career">Career</string>
+    <string name="nav_about_programs">Programs</string>
+    <string name="nav_more">More</string>
+    <string name="nav_logout">Logout</string>
+</resources>
